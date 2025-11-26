@@ -6,4 +6,4 @@ Nous ne collectons, ne stockons ni ne partageons aucune donnée personnelle avec
 
 Les données utilisées dans le cadre de l'application ne servent qu'à assurer son bon fonctionnement technique.
 
-Pour toute question, veuillez contacter : [ton email].
+Pour toute question, veuillez contacter : quaideco25@gmail.com.
